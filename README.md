@@ -13,3 +13,7 @@
     * \data<br>For this weeks data.
     * \documents<br>For instructions and the final_report.pdf
     * \environment<br>For notebook environment pip install packages.
+
+## Original Paper
+
+[Advanced Stock Market Prediction Using Long Short-Term Memory Networks: A Comprehensive Deep Learning Framework](https://arxiv.org/abs/2505.05325)
